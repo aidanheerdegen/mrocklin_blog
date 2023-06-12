@@ -23,7 +23,7 @@ Doing this well is an incredible service to the community.
 Minimal Complete Verifiable Examples
 ------------------------------------
 
-I strongly recommend following Stack Overflow's guidelines on [Minimal Complete Verifiable Exmamples](https://stackoverflow.com/help/mcve).  I'll include brief highlights here:
+I strongly recommend following Stack Overflow's guidelines on [Minimal Complete Verifiable Examples](https://stackoverflow.com/help/mcve).  I'll include brief highlights here:
 
 *... code should be ...*
 
